@@ -1,0 +1,17 @@
+.event {
+    border: 1px solid #ccc;
+    width: 25rem;
+    box-shadow: 2px 7px 5px #ccc;
+    border-radius: 10px;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.event-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 0 auto;
+    padding: 0;
+    list-style: none;
+}

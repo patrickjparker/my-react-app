@@ -1,0 +1,1167 @@
+{
+  "BYUSA": [
+    {
+      "name": "Cougar Skate",
+      "date": ["10-26-2023", "11-30-2023", "12-13-2023"],
+      "time": "7:00pm - 10:00pm",
+      "location": "WSC Ballroom",
+      "otherInfo": {
+        "faq": [
+          {
+            "Question": "When and how can I purchase a ticket?",
+            "Answer": "Tickets are sold at the event and can be purchased using Credit, Debit, or Cougar Cash! We do not accept cash."
+          },
+          {
+            "Question": "Do I need to be a BYU student to skate?",
+            "Answer": "The Cougar Skate program is intended for current BYU students. A current BYU Student ID is required to purchase tickets. Students may purchase additional tickets to bring adult guests. All participants must be 18 and older, with the exception of current BYU students under the age of 18."
+          },
+          {
+            "Question": "I have a current BYU Student ID, can I bring my kids to Cougar Skate?",
+            "Answer": "No. The only exception for minors to attend Cougar Skate is for current BYU students under the age of 18."
+          },
+          {
+            "Question": "Do I need to worry about tickets selling out?",
+            "Answer": "The maximum skating capacity in the Ballroom is 300 skaters. Once capacity is reached, tickets sales will go on hold. As skaters turn in their skates to leave the event, additional skate spots will open. Once capacity is reached we cannot guarantee if or when spots will open, but will do our best to accommodate all interested participants as quickly as possible."
+          },
+          {
+            "Question": "Can I get a group discount on tickets?",
+            "Answer": "Not at this time."
+          },
+          {
+            "Question": "Can I reserve the whole skate night for a private event?",
+            "Answer": "No. Access to the WSC Ballroom space is limited and the skate nights are intended for all interested students."
+          },
+          {
+            "Question": "Can I bring my own skates?",
+            "Answer": "No. Approval to hold this event from the Wilkinson Student Center building management and BYU Risk Management offices is based in part on the exclusive use of BYU owned and maintained skate equipment."
+          },
+          {
+            "Question": "Can I reserve the skates for a private event?",
+            "Answer": "No. The skates and skating events held in the Wilkinson Student Center are approved for use only for the Cougar Skate program. No private rentals, reservations, or use of the skates by individuals or other campus groups is permitted."
+          }
+        ],
+        "entryRules": [
+          "Must have BYU ID",
+          "Must be 18 or be a current BYU student",
+          "Must wear socks",
+          "Must wear rental skates",
+          "Must sign waiver"
+        ]
+      },
+      "additionalInfo": {
+        "link": { "officialWebsite": "https://sclcenter.byu.edu/cougarskate" },
+        "email": "byusaactivities@byu.edu",
+        "phone": "(801) 422-6009"
+      },
+      "category": ["BYUSA"]
+    },
+    {
+      "name": "Halloween Dance",
+      "date": "10-31-2023",
+      "time": "8:00pm - 11:00pm",
+      "location": "JFSB Quad",
+      "price": "$5.00",
+      "otherInfo": {
+        "description": "Come party at BYU's glow in the dark Halloween bash full of fun, activities, treats, dancing and costumes! For a cheap price enjoy your Halloween with friends and dance the night away!!! We hope that you will join us and make memories to last a lifetime!",
+        "shortDescription": "Games, treats, costumes, and DJ Scotty J!"
+      },
+      "additionalInfo": {
+        "link": {
+          "officialWebsite": "https://sclcenter.byu.edu/halloween-dance"
+        },
+        "email": "byusaactivities@byu.edu",
+        "phone": "(801) 422-6009"
+      }
+    },
+    {
+      "name": "Spookify the Y",
+      "date": "10-31-2023",
+      "time": "12:00pm",
+      "location": [
+        "Kimball Quad",
+        "South Campus Quad",
+        "JFSB",
+        "Brigham Square",
+        "MSRB Quad",
+        "3400 WSC"
+      ],
+      "price": "Free"
+    },
+    {
+      "name": "Fall Freeze",
+      "date": "11-10-2023",
+      "time": "8:00pm - 12:00am",
+      "location": "Peaks Ice Arena (100 N Seven Peaks Blvd, Provo, UT 84606)",
+      "price": "$5.00",
+      "otherInfo": {
+        "description": "What’s cooler than being cool, ice cold! Fall Freeze is BYU’s coolest event of the year! Party includes broom hockey, ice skating, games, dance, treats, and more!",
+        "faq": [
+          {
+            "Question": "What’s cooler than being cool, ice cold! Fall Freeze is BYU’s coolest event of the year! Party includes broom hockey, ice skating, games, dance, treats, and more!",
+            "Answer": "You need to hold a current BYU ID in order to purchase tickets. However, non-BYU students are welcome to attend if their ticket was bought with a BYU ID"
+          },
+          {
+            "Question": "You need to hold a current BYU ID in order to purchase tickets. However, non-BYU students are welcome to attend if their ticket was bought with a BYU ID",
+            "Answer": "No. The only exception for minors to attend Cougar Skate is for current BYU students under the age of 18."
+          },
+          {
+            "Question": "Can I buy my tickets at the door of the event?",
+            "Answer": "Yes. Tickets will be available both online (at eventtickets.byu.edu) and at the door."
+          },
+          {
+            "Question": "What does my ticket include?",
+            "Answer": "The purchase of a ticket includes entry to Peaks Ice Arena, refreshments, broom hockey, 60 minutes of ice skating, crafts, photo ops, and booths from several organizations across campus including Y-Serve!!"
+          },
+          {
+            "Question": "Why are tickets sold by time slots?",
+            "Answer": "Because so many students attend this event, the best way for us to provide everyone a fair opportunity to ice skate is to give each person a designated time slot of skate time. However, students have access to all other event offerings throughout the night. Time slots apply only to ice skating."
+          },
+          {
+            "Question": "Are group discounts offered?",
+            "Answer": "No, we do not offer a group discount at this time."
+          },
+          {
+            "Question": "I don't have a vehicle to get me to Peaks Ice Arena. Is there another way for me to get there?",
+            "Answer": "Yes! We will have a shuttle service from 7:45pm-12:15am the night of the event. Students should line up near the East roundabout of the Wilkinson Student Center. The shuttle will run to and from Peaks Ice Arena for the night. Shuttles do not have exact depart/arrival times as they simply run continuous loops based on student need, but departure times from each location will be no more than 15 minutes apart."
+          }
+        ]
+      },
+      "additionalInfo": {
+        "link": {
+          "officialWebsite": "https://sclcenter.byu.edu/activities-fall-freeze"
+        },
+        "email": "byusaactivities@byu.edu",
+        "phone": "(801) 422-6009"
+      }
+    },
+    {
+      "name": "Homecoming Lunch",
+      "date": "10-17-2023",
+      "time": "12:00pm - 2:00pm",
+      "location": "Brigham Square",
+      "price": "Free",
+      "otherInfo": {
+        "description": "After the opening ceremony at 11am the BYU Marching Band will lead students to Brigham Square where we will pass out free pizza and cookies!"
+      }
+    },
+    {
+      "name": "HOCO Noondays",
+      "date": ["10-19-2023", "10-20-2023"],
+      "time": "11:00am - 2:00pm",
+      "location": "TBD"
+    },
+    {
+      "name": "Homecoming Formal",
+      "date": "10-20-2023",
+      "time": "7:00pm - 10:00pm",
+      "location": "Sleepy Ridge",
+      "price": "$5.00",
+      "otherInfo": {
+        "ticketLink": "https://eventtickets.byu.edu/home",
+        "description": "This year's homecoming formal dance will be a retro-inspired night of \"Dancing in the Moonlight.\" It will take place on October 20, 2023 at 7:00 PM at Sleepy Ridge Wedding Venue and Golf Course. All are welcome to enjoy a groovy and glamourous night of dancing and music by a live DJ. There will be delicious refreshments, including desserts by \"Nothing Bundt Cakes\", and a photobooth to capture the night."
+      }
+    }
+  ],
+  "byuCalendarEvents": [
+    {
+      "date": "10-17-2023",
+      "title": "Homecoming Opening Ceremony 2023",
+      "url": "https://calendar.byu.edu/devotionals-forums/homecoming-opening-ceremony-2023-2023-10-17",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-17",
+      "location": "Marriott Center",
+      "description": "Kick off Homecoming week with energetic performances from campus groups.",
+      "time": "11:00 AM",
+      "tags": ["Social", "Educational"]
+    },
+    {
+      "date": "10-24-2023",
+      "title": "Devotional: Sister Kristin M. Yee",
+      "url": "https://calendar.byu.edu/devotionals-forums/devotional-sister-kristin-m-yee-2023-10-24",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-24",
+      "location": "Marriott Center",
+      "description": "Sister Kristin M. Yee was sustained as Second Counselor in the Relief Society General Presidency for The Church of Jesus Christ of Latter-day Saints on April 2, 2022. At the time of her call, she had been serving on the Primary General Advisory Council.",
+      "time": "11:05 AM",
+      "tags": ["Devotional", "Religious"]
+    },
+    {
+      "date": "10-31-2023",
+      "title": "Forum: John and Susan Tanner",
+      "url": "https://calendar.byu.edu/devotionals-forums/forum-speaker-tbd-2023-10-31",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-31",
+      "location": "Marriott Center",
+      "description": "John S. Tanner worked as professor of English at Florida State and then BYU. He also served as the associate academic vice president and later the academic vice president of BYU in 2004. In 2015, he was invited to serve as the president of BYU–Hawaii.",
+      "time": "11:05 AM",
+      "tags": ["Educational"]
+    },
+    {
+      "date": "10-5-2023",
+      "title": "Women's Soccer vs Texas Tech",
+      "location": "South Field",
+      "url": "https://calendar.byu.edu/athletics/womens-soccer-vs-texas-tech-2023-10-05",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-05",
+      "tags": ["Sports", "Women's Soccer"],
+      "description": "Women's Soccer will compete against Texas Tech on the South Field.",
+      "time": "7:00 PM"
+    },
+    {
+      "date": "10-9-2023",
+      "title": "Women's Soccer vs Kanas State",
+      "location": "South Field",
+      "url": "https://calendar.byu.edu/athletics/womens-soccer-vs-kanas-state-2023-10-09",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-09",
+      "tags": ["Sports", "Women's Soccer"],
+      "description": "Women's Soccer will compete against Kanas State on the South Field.",
+      "time": "5:00 PM"
+    },
+    {
+      "date": "10-13-2023",
+      "title": "Women's Lacrosse vs. Westminster",
+      "location": "West Field",
+      "url": "https://calendar.byu.edu/athletics/womens-lacrosse-vs-westminster-2023-10-13",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-13",
+      "tags": ["Sports", "Women's Lacrosse"],
+      "description": "Watch Women's Lacrosse compete against Westminster on the West Field.",
+      "time": "4:00 PM"
+    },
+    {
+      "date": "10-13-2023",
+      "title": "Women's Volleyball vs Texas Tech",
+      "url": "https://calendar.byu.edu/athletics/womens-volleyball-vs-texas-tech-2023-10-13",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-13",
+      "location": "Smith Fieldhouse",
+      "description": "Women's Volleyball will compete against Texas Tech at the Smith Fieldhouse.",
+      "time": "7:00 PM",
+      "tags": ["Sports", "Women's Volleyball"]
+    },
+    {
+      "date": "10-13-2023",
+      "title": "Men's Soccer vs. Utah State",
+      "location": "South Field",
+      "url": "https://calendar.byu.edu/athletics/mens-soccer-vs-utah-state-2023-10-13",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-13",
+      "description": "Watch Men's Soccer compete against Utah State on the South Field.",
+      "time": "7:00 PM",
+      "tags": ["Sports", "Men's Soccer"]
+    },
+    {
+      "date": "10-14-2023",
+      "title": "Women's Rugby vs. Central Washington",
+      "url": "https://calendar.byu.edu/athletics/womens-rugby-vs-central-washington-2023-10-14",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-14",
+      "location": "Helaman Field",
+      "description": "Watch Women's Rugby compete against Central Washington on Helaman Field.",
+      "time": "11:00 AM",
+      "tags": ["Sports", "Women's Rugby"]
+    },
+    {
+      "date": "10-14-2023",
+      "title": "Women's Volleyball vs Texas Tech",
+      "url": "https://calendar.byu.edu/athletics/womens-volleyball-vs-texas-tech-2023-10-14",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-14",
+      "location": "Smith Fieldhouse",
+      "description": "Women's Volleyball will compete against Texas Tech at the Smith Fieldhouse.",
+      "time": "7:00 PM",
+      "tags": ["Sports", "Women's Volleyball"]
+    },
+    {
+      "date": "10-14-2023",
+      "title": "Women's Volleyball vs. Texas Tech",
+      "url": "https://calendar.byu.edu/athletics/w-volleyball-vs-texas-tech-2023-10-14",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-14",
+      "location": "Smith Fieldhouse",
+      "description": "Texas Tech \n  BYU \n  Provo, Provo \n  Smith Fieldhouse",
+      "time": "7:00 PM",
+      "tags": ["Sports", "Women's Volleyball"]
+    },
+    {
+      "date": "10-14-2023",
+      "title": "Men's Soccer vs. Weber State",
+      "location": "South Field",
+      "url": "https://calendar.byu.edu/athletics/mens-soccer-vs-weber-state-2023-10-14",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-14",
+      "description": "Watch Men's Soccer compete against Weber State on the South Field.",
+      "time": "7:00 PM",
+      "tags": ["Sports", "Men's Soccer"]
+    },
+    {
+      "date": "10-19-2023",
+      "title": "Women's Volleyball vs Iowa State",
+      "url": "https://calendar.byu.edu/athletics/womens-soccer-vs-iowa-state-2023-10-19",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-19",
+      "location": "Smith Fieldhouse",
+      "description": "Women's Volleyball will compete against Iowa State at the Smith Fieldhouse.",
+      "time": "7:00 PM",
+      "tags": ["Sports", "Women's Volleyball"]
+    },
+    {
+      "date": "10-19-2023",
+      "title": "Women's Volleyball vs. Iowa State",
+      "url": "https://calendar.byu.edu/athletics/w-volleyball-vs-iowa-state-2023-10-19",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-19",
+      "location": "Smith Fieldhouse",
+      "description": "Iowa State \n  BYU \n  Provo, Provo \n  Smith Fieldhouse",
+      "time": "7:00 PM",
+      "tags": ["Sports", "Women's Volleyball"]
+    },
+    {
+      "date": "10-20-2023",
+      "title": "Women's Volleyball vs Iowa State",
+      "url": "https://calendar.byu.edu/athletics/womens-volleyball-vs-iowa-state-2023-10-20",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-20",
+      "location": "Smith Fieldhouse",
+      "description": "Women's Volleyball will compete against Iowa State at the Smith Fieldhouse.",
+      "time": "7:00 PM",
+      "tags": ["Sports", "Women's Volleyball"]
+    },
+    {
+      "date": "10-20-2023",
+      "title": "Women's Volleyball vs. Iowa State",
+      "url": "https://calendar.byu.edu/athletics/w-volleyball-vs-iowa-state-2023-10-20",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-20",
+      "location": "Smith Fieldhouse",
+      "description": "Iowa State \n  BYU \n  Provo, Provo \n  Smith Fieldhouse",
+      "time": "7:00 PM",
+      "tags": ["Women's Volleyball", "Sports"]
+    },
+    {
+      "date": "10-21-2023",
+      "title": "Football vs. Texas Tech (Homecoming)",
+      "url": "https://calendar.byu.edu/athletics/football-vs-texas-tech-2023-10-21",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-21",
+      "location": "LaVell Edwards Stadium",
+      "description": "BYU \n  Texas Tech \n  Provo, Provo \n  LaVell Edwards Stadium",
+      "time": "12:00 PM",
+      "tags": ["Sports", "Football"]
+    },
+    {
+      "date": "10-23-2023",
+      "title": "Women's Soccer vs UCF",
+      "location": "South Field",
+      "url": "https://calendar.byu.edu/athletics/womens-soccer-vs-ucf-2023-10-23",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-23",
+      "description": "Women's Soccer will compete against UCF at the South Field.",
+      "time": "6:00 PM",
+      "tags": ["Sports", "Women's Soccer"]
+    },
+    {
+      "date": "10-28-2023",
+      "title": "Women's Rugby vs. Grand Canyon",
+      "url": "https://calendar.byu.edu/athletics/womens-rugby-vs-grand-canyon-2023-10-28",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-28",
+      "location": "Helaman Field",
+      "description": "Watch Women's Rugby compete against Grand Canyon on Helaman Field.",
+      "time": "11:00 AM",
+      "tags": ["Women's Rugby", "Sports"]
+    },
+    {
+      "date": "10-28-2023",
+      "title": "Men's Rugby vs. Colorado State",
+      "url": "https://calendar.byu.edu/athletics/mens-rugby-vs-colorado-state-2023-10-28",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-28",
+      "location": "Helaman Field",
+      "description": "Watch Men's Rugby compete against Colorado State on Helaman Field.",
+      "time": "2:00 PM",
+      "tags": ["Sports", "Men's Rugby"]
+    },
+    {
+      "date": "10-28-2023",
+      "title": "Men's Rugby vs. Wyoming",
+      "url": "https://calendar.byu.edu/athletics/mens-rugby-vs-wyoming-2023-10-28",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-28",
+      "location": "Helaman Field",
+      "description": "Watch Men's Ruby compete against Wyoming on Helaman Field.",
+      "time": "4:00 PM",
+      "tags": ["Sports", "Men's Rugby"]
+    },
+    {
+      "date": "10-2-2023",
+      "title": "Mentor Meetup",
+      "location": "Kennedy Center Advisement (273 HRCB)",
+      "url": "https://calendar.byu.edu/Education/mentor-meetup-2023-10-02",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-02",
+      "description": "Considering a career in global business, law, diplomacy, national security, or development? Then check out this Kennedy Center mentoring info session, where you can begin the process of exploring careers, finding opportunities, and getting feedback from a Kennedy Mentor.",
+      "time": "4:00 PM - 5:00 PM",
+      "tags": ["Social", "Educational"]
+    },
+    {
+      "date": "10-2-2023",
+      "title": "Temple Tidbits FHE",
+      "location": "The Education in Zion Gallery-JFSB",
+      "url": "https://calendar.byu.edu/student-life/temple-tidbits-fhe-2023-10-02",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-02",
+      "description": "Which temple has the tallest Angel Moroni? Which temple has a cell from the original Pinocchio film in its cornerstone and why? Learn these and other fun facts about the individual temples.",
+      "time": "7:00 PM - 7:30 PM",
+      "tags": ["Social", "Educational"]
+    },
+    {
+      "date": "10-3-2023",
+      "title": "When You Wish Upon a Star: A Jazz Tribute to 100 Years of Disney",
+      "url": "https://calendar.byu.edu/arts-entertainment/when-you-wish-upon-a-star-a-jazz-tribute-to-100-years-of-disney-2023-10-03",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-03",
+      "location": "Concert Hall",
+      "description": "Celebrate 100 years of Disney through the lens of jazz with the five-piece house band of the National Jazz Museum in Harlem, led by pianist and music director Sean Mason and featuring vocalists Kim Nalley and Sasha Dobson. Hear jazz renditions of iconic favorites like “Someday My Prince Will Come” and “Everybody Wants to Be a Cat” in this tribute to the 100-year legacy of Disney.",
+      "time": "7:30 PM - 9:00 PM",
+      "tags": ["Art","Band"]
+    },
+    {
+      "date": "10-4-2023",
+      "title": "What About Iphigenia? Reading Greek Mythology Through a Social Justice Lens",
+      "url": "https://calendar.byu.edu/Education/what-about-iphigenia-reading-greek-mythology-through-a-social-justice-lens-2023-10-04",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-04",
+      "location": "238 HRCB",
+      "description": "The ancient Athenians enacted mythological stories in the Theater of Dionysus as a way to address the pressing issues of their time. Can these myths do the same thing for us today? While narratives from Greek and Roman culture have sometimes been used to bolster negative ideologies, such as misogyny, racism, and cultural chauvinism, the vibrancy of these stories keeps them from being tied to any single meaning. Rereading and retelling Greek and Roman myths through a social justice lens can help us preserve important aspects of our cultural heritage, while also transforming our current culture for the better.",
+      "time": "12:00 PM - 1:00 PM",
+      "tags": ["Educational", "Social"]
+    },
+    {
+      "date": "10-4-2023",
+      "title": "Choir Showcase",
+      "url": "https://calendar.byu.edu/arts-entertainment/choir-showcase-2023-10-04",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-04",
+      "location": "Concert Hall",
+      "description": "Known for their polished performances and versatility of genre and style, the four auditioned BYU choirs—Men’s Chorus, Women’s Chorus, Concert Choir, and BYU Singers—will present a varied program of classical and contemporary choral works, featuring special guest composer Dan Forrest.",
+      "time": "7:30 PM - 9:00 PM",
+      "tags": ["Choir", "Art"]
+    },
+    {
+      "date": "10-5-2023",
+      "title": "Workshop: Sharing Your Research on BYU’s Institutional Repository",
+      "url": "https://calendar.byu.edu/Education/workshop-sharing-your-research-on-byus-institutional-repository-2023-10-05",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-05",
+      "location": "2233 HBLL",
+      "description": "This session will provide an introduction to ScholarsArchive, BYU's Institutional Repository.",
+      "time": "12:00 PM - 1:00 PM",
+      "tags": ["Educational"]
+    },
+    {
+      "date": "10-5-2023",
+      "title": "BYU Symphonic Band: Songs for Band",
+      "url": "https://calendar.byu.edu/arts-entertainment/byu-symphonic-band-songs-for-band-2023-10-05",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-05",
+      "location": "Concert Hall",
+      "description": "Join the BYU Symphonic Band as they explore hymns, folk songs, and anthems, all written and arranged for band. Enjoy the beautiful BYU Concert Hall and be edified by songs from all genres.",
+      "time": "7:30 PM - 9:30 PM",
+      "tags": ["Art", "Band"]
+    },
+    {
+      "date": "10-5-2023",
+      "title": "Guest Artist: Eric Hollenbeck, percussion",
+      "url": "https://calendar.byu.edu/arts-entertainment/guest-artist-eric-hollenbeck-percussion-2023-10-05",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-05",
+      "location": "Recital Hall",
+      "description": "Percussionist and Colorado State University professor Eric Hollenbeck comes to BYU for a solo recital. Hollenbeck has performed throughout the world and at over thirty universities in the United States, and he is a four-time featured performer at the Percussive Arts Society International Convention.",
+      "time": "7:30 PM - 9:00 PM",
+      "tags": ["Art", "Band"]
+    },
+    {
+      "date": "10-6-2023",
+      "title": "Workshop: Finding open and more affordable course content",
+      "url": "https://calendar.byu.edu/Education/workshop-finding-open-and-more-affordable-course-content-2023-10-06",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-06",
+      "location": "2233 HBLL",
+      "description": "Have you thought that your students pay too much for course content? Have you wanted to maintain the high quality instruction but help the students out? There are resources for course content that can be free or more affordable. Come to this workshop to learn about how to find this type of content and how you can simply integrate it into your course offerings.",
+      "time": "12:00 PM - 1:00 PM",
+      "tags": ["Educational", "Workshop"]
+    },
+    {
+      "date": "10-6-2023",
+      "title": "Ask Me Anything about Global EdTech, Innovation, and Learning Careers",
+      "url": "https://calendar.byu.edu/Education/ask-me-anything-about-global-edtech-innovation-and-learning-careers-2023-10-06",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-06",
+      "location": "257 HRCB",
+      "description": "Come check out this Ask Me Anything event with David Porcaro.",
+      "time": "2:00 PM - 3:00 PM",
+      "tags": ["Educational", "Social"]
+    },
+    {
+      "date": "10-6-2023",
+      "title": "Faculty Recital: American Piano Duo and American Piano Quartet Joint Concert",
+      "url": "https://calendar.byu.edu/arts-entertainment/faculty-recital-american-piano-duo-and-american-piano-quartet-joint-concert-2023-10-06",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-06",
+      "location": "Concert Hall",
+      "description": "The American Piano Duo and American Piano Quartet combine for a thrilling evening of musical favorites. Come hear the resounding and sumptuous textures of Rachmaninoff’s Piano Suite No. 2, the patriotic fervor of “The Stars and Stripes Forever,” and much more!",
+      "time": "7:30 PM - 9:30 PM",
+      "tags": ["Art"]
+    },
+    {
+      "date": "10-9-2023",
+      "title": "Ask Me Anything about Central America, the Middle East, &amp; the Unexpected in Global Careers",
+      "url": "https://calendar.byu.edu/Education/ask-me-anything-about-central-america-the-middle-east-the-unexpected-in-global-careers-2023-10-09",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-09",
+      "location": "257 HRCB",
+      "description": "Interested in the Foreign Service or another global career? Come hear from Joey Leavitt at this Ask Me Anything event.",
+      "time": "2:00 PM - 3:00 PM",
+      "tags": ["Educational"]
+    },
+    {
+      "date": "10-10-2023",
+      "title": "Agar Art Contest",
+      "url": "https://calendar.byu.edu/arts-entertainment/agar-art-contest-2023-10-10",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-10",
+      "location": "WSC Garden Court",
+      "description": "No registration required, come join us and start to create an agar masterpiece.",
+      "time": "12:00 PM - 4:00 PM",
+      "tags": ["Social"]
+    },
+    {
+      "date": "10-11-2023",
+      "title": "Major Fair",
+      "url": "https://calendar.byu.edu/student-life/major-fair-2023-10-11",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-11",
+      "location": "WSC Ballroom & Garden Court",
+      "description": "The Major Fair is your one-stop shop for exploring majors. Representatives from BYU's various departments will be in attendance and available to answer questions. This event is for BYU students only (middle school and high school students are not permitted to attend).",
+      "time": "9:30 AM - 3:30 PM",
+      "tags": ["Educational"]
+    },
+    {
+      "date": "10-11-2023",
+      "title": "Fulbe Itinerant Clerics and the Founding of the Tijāniyya in Southern Senegambia",
+      "url": "https://calendar.byu.edu/Education/fulbe-itinerant-clerics-and-the-founding-of-the-tijaniyya-in-southern-senegambia-2023-10-11",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-11",
+      "location": "238 HRCB",
+      "description": "In the last two centuries, itinerant Muslim clerics played a huge role in changing the social and religious landscape of the Senegambia region. Dr. Assan Sarr will examine Islam and Islamization in West Africa through the history of the Tijāniyya, a prominent Sufi order with its ties to these clerics in the region.",
+      "time": "12:00 PM - 1:00 PM",
+      "tags": ["Educational", "Religious"]
+    },
+    {
+      "date": "10-11-2023",
+      "title": "Corn Shucking Contest",
+      "url": "https://calendar.byu.edu/other/corn-shucking-contest-2023-10-11",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-11",
+      "location": "Kimball Quad",
+      "description": "Aww Shucks! All BYU Faculty and Staff are invited to our first ever corn shucking contest and fresh elote corn! Experience for yourself the benefits of communal eating and cooking. Featuring special guest Jarom Jordan, Studio Show Host for BYUtv as commentator of the event. Reserve your spot today!",
+      "time": "1:00 PM - 3:00 PM",
+      "tags": ["Sports", "Social"]
+    },
+    {
+      "date": "10-11-2023",
+      "title": "Ask Me Anything about International Development, Non-profits, and Helping Ukraine",
+      "url": "https://calendar.byu.edu/Education/ask-me-anything-about-international-development-non-profits-and-helping-ukraine-2023-10-11",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-11",
+      "location": "238 HRCB",
+      "description": "Interested in international development and in how you can make a difference in the world with your future career? Come hear from Jason Stout at this Ask Me Anything event.",
+      "time": "5:00 PM - 6:00 PM",
+      "tags": ["Educational", "Social"]
+    },
+    {
+      "date": "10-12-2023",
+      "title": "Joseph Smith Papers Symposium",
+      "url": "https://calendar.byu.edu/Education/joseph-smith-papers-symposium-2023-10-12",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-12",
+      "location": "Education in Zion Auditorium",
+      "description": "October 12, 11 AM, Education in Zion Auditorium (JFSB B192) \n  Co-sponsored with BYU History Department",
+      "time": "11:00 AM - 12:30 PM",
+      "tags": ["Educational"]
+    },
+    {
+      "date": "10-12-2023",
+      "title": "Workshop: Making your Published Work discoverable Online",
+      "url": "https://calendar.byu.edu/Education/workshop-making-your-published-work-discoverable-online-2023-10-12",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-12",
+      "location": "2233 HBLL",
+      "description": "Getting published is one thing, maximizing the impact of your work is another. In this workshop we will share:",
+      "time": "12:00 PM - 1:00 PM",
+      "tags": ["Educational"]
+    },
+    {
+      "date": "10-12-2023",
+      "title": "Elections Interest Meeting",
+      "url": "https://sclcenter.byu.edu/elections-interest-meeting-10-12",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-12",
+      "location": "3400 WSC",
+      "description": "The general student body and individuals interested in running for BYUSA President and EVP come to the BYUSA Elections interest meetings to learn more and prepare for their candidacies.",
+      "time": "4:00 PM - 5:00 PM",
+      "tags": ["Social", "Educational"]
+    },
+    {
+      "date": "10-12-2023",
+      "title": "CANCELED: Robert P. George Lecture",
+      "url": "https://calendar.byu.edu/Education/robert-p-george-lecture-2023-10-12",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-12",
+      "location": "The Hinckley Center",
+      "description": "Unfortunately, this event has been canceled.",
+      "time": "7:00 PM",
+      "tags": ["Educational"]
+    },
+    {
+      "date": "10-13-2023",
+      "title": "USA and Mexico Relations",
+      "url": "https://calendar.byu.edu/Education/usa-and-mexico-relations-2023-10-13",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-13",
+      "location": "Reynolds Auditorium HBLL 1060",
+      "description": "His Excellency Esteban Moctezuma Barragán, Mexican ambassador the United States of America, will speak on BYU campus.",
+      "time": "11:00 AM - 12:00 PM",
+      "tags": ["Educational"]
+    },
+    {
+      "date": "10-13-2023",
+      "title": "50-Foot-Long Cake to Celebrate 50 Years",
+      "url": "https://calendar.byu.edu/other/50-foot-long-cake-to-celebrate-50-years-2023-10-13",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-13",
+      "location": "Quad south of the KMBL",
+      "description": "Our college is 50 years old, and we're celebrating with a 50-foot-long cake, the biggest cake ever on BYU campus! All of campus is invited to join us at the celebration.",
+      "time": "11:30 AM - 1:30 PM",
+      "tags": ["Social"]
+    },
+    {
+      "date": "10-13-2023",
+      "title": "Workshop: Common Tools for Data Analysis and Visualization",
+      "url": "https://calendar.byu.edu/Education/workshop-common-tools-for-data-analysis-and-visualization-2023-10-13",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-13",
+      "location": "2233 HBLL",
+      "description": "This session will highlight software for analyzing and visualizing data including R, SAS, Python, SPSS, Stata, Excel, Tableau Public, Gale Scholar Lab, and ArcGIS. Come to learn about features and functions of each software, use-case scenarios, and training resources.",
+      "time": "12:00 PM - 1:00 PM",
+      "tags": ["Educational"]
+    },
+    {
+      "date": "10-13-2023",
+      "title": "Multiple Sclerosis Through the Stages of Life: a Female Perspective",
+      "url": "https://calendar.byu.edu/Education/multiple-sclerosis-through-the-stages-of-life-a-female-perspective-2023-10-13",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-13",
+      "location": "238 HRCB",
+      "description": "Mary Davis of BYU's Microbiology and Molecular Biology Department speaks on \"Multiple Sclerosis Through the Stages of Life: a Female Perspective” at this fall 2023 Global Women's Studies Colloquium event.",
+      "time": "12:00 PM - 1:00 PM",
+      "tags": ["Educational", "Women's Health", "Lecture"]
+    },
+    {
+      "date": "10-13-2023",
+      "title": "Restoring That Which Has Never Been: Hmong Millenarianism and the Reinvention of Tradition",
+      "url": "https://calendar.byu.edu/Education/restoring-that-which-has-never-been-hmong-millenarianism-and-the-reinvention-of-tradition-2023-10-13",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-13",
+      "location": "238 HRCB",
+      "description": "Change and flexibility has been a defining element of Hmong religion. But the spread of Hmong communities across the world (most often as refugees) has presented challenges to “traditional” Hmong religion on a whole new scale. Leaders of new religious movements seek to unify Hmong society, but this requires persuading their compatriots that their new rituals and practices are, in fact, actually more authentic than the older traditions, and that they are more likely to unify global Hmong society than traditional religion.",
+      "time": "2:00 PM - 3:00 PM",
+      "tags": ["Educational"]
+    },
+    {
+      "date": "10-13-2023",
+      "title": "DMBA Open Enrollment Session",
+      "url": "https://calendar.byu.edu/other/dmba-open-enrollment-session-2023-10-13",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-13",
+      "location": null,
+      "description": "It’s October, which means it’s time for DMBA Open Enrollment, September 27th through November 3rd. Open Enrollment allows you to review your medical, dental and VSP plan benefits and make changes for 2024. Also, don’t forget you can sign up for Flexible Spending for 2024 anytime between September 28th-December 31st. The Open Enrollment sessions for campus will begin on October 10, 2023. There is two in-person session and three virtual Open Enrollment sessions. Mark your calendars, you won’t want to miss it!",
+      "time": "2:00 PM",
+      "tags": ["Educational"]
+    },
+    {
+      "date": "10-13-2023",
+      "title": "Film Restoration Showcase Double Feature: Are You The One? and Double Harness",
+      "url": "https://calendar.byu.edu/arts-entertainment/film-restoration-showcase-double-feature-are-you-the-one-and-double-harness-2023-10-13",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-13",
+      "location": "Reynolds Auditorium HBLL 1060",
+      "description": "The BYU Library offers student internships in film restoration.",
+      "time": "7:30 PM - 9:30 PM",
+      "tags": ["Film", "Educational"]
+    },
+    {
+      "date": "10-14-2023",
+      "title": "Family Concert Series: Music of the Mountain Strings",
+      "url": "https://calendar.byu.edu/arts-entertainment/family-concert-series-music-of-the-mountain-strings-2023-10-14",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-14",
+      "location": "Concert Hall",
+      "description": "Make fun family memories by attending the BYU Family Concert Series, created to introduce the joy of music to children of all ages. This series is sponsored by the Beverley Taylor Sorenson Foundation. All family members are encouraged to attend regardless of age, infants on up. Free, no tickets required. Concerts begin at 11:00 a.m. and are approximately 40 minutes in length.",
+      "time": "11:00 AM - 12:00 PM",
+      "tags": ["Art"]
+    },
+    {
+      "date": "10-16-2023",
+      "title": "DMBA Open Enrollment Session",
+      "url": "https://calendar.byu.edu/other/dmba-open-enrollment-session-2023-10-16",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-16",
+      "location": null,
+      "description": "It’s October, which means it’s time for DMBA Open Enrollment, September 27th through November 3rd. Open Enrollment allows you to review your medical, dental and VSP plan benefits and make changes for 2024. Also, don’t forget you can sign up for Flexible Spending for 2024 anytime between September 28th-December 31st. The Open Enrollment sessions for campus will begin on October 10, 2023. There is two in-person session and three virtual Open Enrollment sessions. Mark your calendars, you won’t want to miss it!",
+      "time": "10:00 AM",
+      "tags": ["Educational"]
+    },
+    {
+      "date": "10-16-2023",
+      "title": "Boren Scholarship Info Session",
+      "url": "https://calendar.byu.edu/Education/boren-scholarship-info-session-2023-10-16",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-16",
+      "location": "238 HRCB",
+      "description": "Do you want $25,000 to study a language overseas for 6 months or longer? You should apply for a Boren Scholarship!",
+      "time": "11:00 AM - 12:00 PM",
+      "tags": ["Educational"]
+    },
+    {
+      "date": "10-17-2023",
+      "title": "Fútbol Feminista: Solidarity and History of Latin American Women's Soccer",
+      "url": "https://calendar.byu.edu/Education/futbol-feminista-solidarity-and-history-of-latin-american-womens-soccer-2023-10-17",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-17",
+      "location": "238 HRCB",
+      "description": "Why is everyone so mad about women’s soccer? Dr. Brenda Elsey will join us to discuss the roots of women’s soccer in Latin America, the struggles of players, and the exciting solidarities that have emerged across the sport. We will reflect upon feminism, sexuality, and gender roles through a deep dive into the region’s favorite pastime.",
+      "time": "3:00 PM - 4:00 PM",
+      "tags": ["Sports", "Women's Soccer", "Social", "Educational"]
+    },
+    {
+      "date": "10-17-2023",
+      "title": "Light the Y",
+      "url": "https://calendar.byu.edu/student-life/light-the-y-2023-10-17",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-17",
+      "location": "Y Trail (shuttle from WSC roundabout)",
+      "description": "This October, join us for BYU’s oldest and most enjoyable tradition, the annual Hike and Light the Y event! Since 1924, thousands of students and alumni alike have participated in lighting the Y every BYU Homecoming. Be the first to the top or enjoy the views as you go, Cosmo can’t wait to see you there!",
+      "time": "6:00 PM - 9:00 PM",
+      "tags": ["Social"]
+    },
+    {
+      "date": "10-17-2023",
+      "title": "Hike and Light the Y",
+      "url": "https://calendar.byu.edu/student-life/hike-and-light-the-y-2023-10-17",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-17",
+      "location": "Y Trail (shuttle from WSC roundabout)",
+      "description": "October 17, 2023",
+      "time": "6:00 PM",
+      "tags": ["Social"]
+    },
+    {
+      "date": "10-17-2023",
+      "title": "\"The Temporal Salvation of All Saints\": The Word of Wisdom and Earthly Stewardship",
+      "url": "https://calendar.byu.edu/Education/the-temporal-salvation-of-all-saints-the-word-of-wisdom-and-earthly-stewardship-2023-10-17",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-17",
+      "location": "321 MSRB",
+      "description": "Discover how the Word of Wisdom applies to personal and environmental health.",
+      "time": "7:00 PM - 8:00 PM",
+      "tags": ["Educational", "Religous"]
+    },
+    {
+      "date": "10-18-2023",
+      "title": "Flowers of Vietnam: Traditional Folk Music and Western Classical Piano",
+      "url": "https://calendar.byu.edu/Education/flowers-of-vietnam-traditional-folk-music-and-western-classical-piano-2023-10-18",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-18",
+      "location": "238 HRCB",
+      "description": "Jared Pierce of BYU's School of Music speaks as part of the Kennedy Center's fall 2023 lecture series, \"Transforming and Preserving Culture.\"",
+      "time": "12:00 PM - 1:00 PM",
+      "tags": ["Art", "Educational"]
+    },
+    {
+      "date": "10-19-2023",
+      "title": "Nature and Human Health Utah: Opportunities for Understanding and Collaboration",
+      "url": "https://calendar.byu.edu/Education/nature-and-human-health-utah-opportunities-for-understanding-and-collaboration-2023-10-19",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-19",
+      "location": "3714 HBLL",
+      "description": "Join us on October 19th from 4–5pm for a presentation from Nature and Human Health Utah (NHH UT)! During this session, NHH UT will introduce their group and their impact thus far, provide historical context, and delve into the multifaceted health benefits associated with connecting with nature, encompassing physical, mental, social, and spiritual components. Additionally, NHH UT will share findings from a recent landscape assessment, offering insights into the current state of the work that’s being done and how to move forward in order to increase equitable access to the outdoors and thus improve health outcomes in Utah.",
+      "time": "4:00 PM - 5:00 PM",
+      "tags": ["Educational"]
+    },
+    {
+      "date": "10-19-2023",
+      "title": "Thinking Big and Showing Up: How to Work and Win on a Global Stage",
+      "url": "https://calendar.byu.edu/Education/thinking-big-and-showing-up-how-to-work-and-win-on-a-global-stage-2023-10-19",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-19",
+      "location": "238 HRCB",
+      "description": "Entrepreneur and Kennedy Center graduate Marc Chenn is the Kennedy Center's fall 2023 honored alumnus. Students, alumni, faculty, and staff are invited to come hear advice and wisdom he's gathered over the course of his successful career.",
+      "time": "5:00 PM - 6:00 PM",
+      "tags": ["Educational"]
+    },
+    {
+      "date": "10-19-2023",
+      "title": "Wellness Coach Workshop: Digital Wellness &amp; Sleep",
+      "url": "https://calendar.byu.edu/Education/wellness-coach-workshop-digital-wellness-sleep-2023-10-19",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-19",
+      "location": null,
+      "description": "Learn the importance of a healthy relationship with social media and how it can effect your sleep. Food will be provided!",
+      "time": "7:00 PM - 8:00 PM",
+      "tags": ["Educational", "Social"]
+    },
+    {
+      "date": "10-23-2023",
+      "title": "DMBA Open Enrollment Session",
+      "url": "https://calendar.byu.edu/other/dmba-open-enrollment-session-2023-10-23",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-23",
+      "location": "Varsity Theater",
+      "description": "It’s October, which means it’s time for DMBA Open Enrollment, September 27th through November 3rd. Open Enrollment allows you to review your medical, dental and VSP plan benefits and make changes for 2024. Also, don’t forget you can sign up for Flexible Spending for 2024 anytime between September 28th-December 31st. The Open Enrollment sessions for campus will begin on October 10, 2023. There is two in-person session and three virtual Open Enrollment sessions. Mark your calendars, you won’t want to miss it!",
+      "time": "3:00 PM",
+      "tags": ["Educational"]
+    },
+    {
+      "date": "10-25-2023",
+      "title": "Kennedy Center Book of the Semester Lecture",
+      "url": "https://calendar.byu.edu/Education/kennedy-center-book-of-the-semester-lecture-2023-10-25",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-25",
+      "location": "238 HRCB",
+      "description": "The Kennedy Center for International Study's Book of the Semester is Stranger in the Shogun's City: A Japanese Woman and Her World. This is \"a vivid, deeply researched work of history that explores the life of an unconventional woman during the first half of the 19th century in Edo—the city that would become Tokyo—and a portrait of a great city on the brink of a momentous encounter with the West.\"",
+      "time": "12:00 PM - 1:00 PM",
+      "tags": ["Educational"]
+    },
+    {
+      "date": "10-25-2023",
+      "title": "My Journey as a Scholar of Faith: Steven C. Harper",
+      "url": "https://calendar.byu.edu/Education/my-journey-as-a-scholar-of-faith-steven-c-harper-2023-10-25",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-25",
+      "location": "Education in Zion Auditorium",
+      "description": "Dr. Harper will address \" How a Child of Relief Society Failed at Charity Before Learning That Charity Never Fails.\" This presentation is part of the \"My Journey as a Scholar of Faith\" series sponsored by the BYU Faculty Center and Education in Zion Gallery.",
+      "time": "3:00 PM - 4:00 PM",
+      "tags": ["Religious", "Educational"]
+    },
+    {
+      "date": "10-26-2023",
+      "title": "DMBA Open Enrollment Session",
+      "url": "https://calendar.byu.edu/other/dmba-open-enrollment-session-2023-10-26",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-26",
+      "location": null,
+      "description": "It’s October, which means it’s time for DMBA Open Enrollment, September 27th through November 3rd. Open Enrollment allows you to review your medical, dental and VSP plan benefits and make changes for 2024. Also, don’t forget you can sign up for Flexible Spending for 2024 anytime between September 28th-December 31st. The Open Enrollment sessions for campus will begin on October 10, 2023. There is two in-person session and three virtual Open Enrollment sessions. Mark your calendars, you won’t want to miss it!",
+      "time": "10:00 AM",
+      "tags": ["Educational"]
+    },
+    {
+      "date": "10-26-2023",
+      "title": "Etiquette Dinner",
+      "url": "https://calendar.byu.edu/student-life/etiquette-dinner-2023-10-26",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-26",
+      "location": "Gordon B. Hinckley Alumni Center",
+      "description": "Enter to dine; go forth refined. The current Vice President of Hallmark, Lindsey Roy, offers business etiquette instruction while students have the opportunity to practice with alumni table hosts over a four-course meal.",
+      "time": "6:00 PM - 8:00 PM",
+      "tags": ["Social", "Educational"]
+    },
+    {
+      "date": "10-27-2023",
+      "title": "BYU Model United Nations High School Conference",
+      "url": "https://calendar.byu.edu/conferences/byu-model-united-nations-high-school-conference-2023-10-27",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-27",
+      "location": "The Wilkinson Center",
+      "description": "For thirty-four years, BYUMUN has been Utah’s premiere high school Model United Nations learning conference. Delegates develop writing skills by drafting resolutions; improve speaking abilities; research country policies and global issues solutions; and learn to persuade their peers. New schools/delegates are welcome.",
+      "time": "8:00 AM - 5:00 PM",
+      "tags": ["Educational"]
+    },
+    {
+      "date": "10-27-2023",
+      "title": "Treated Like a Lady: American Girls and Second-Wave Feminism",
+      "url": "https://calendar.byu.edu/Education/treated-like-a-lady-american-girls-and-second-wave-feminism-2023-10-27",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-27",
+      "location": "238 HRCB",
+      "description": "In the late 1960s and 1970s, many American girls who were old enough to know something of the era’s contemporary gender debates strongly endorsed the principle of equal pay for equal work and argued that women should have more varied job opportunities. At the same time, most teenage girls did not self-identify as feminists, and many criticized the movement for “going too far.” Drawing on early 1970s oral history interviews with girls from across the nation, this presentation will consider how girls coming of age during a time of gender contestation situated themselves culturally and politically. Faced with multiple and contradictory meanings for girlhood, many girls tried to find some kind of middle ground: to assert new rights for gender equality while protecting their sense of the entitlements of femininity.",
+      "time": "12:00 PM - 1:00 PM",
+      "tags": ["Educational", "Social", "Women's Rights"]
+    },
+    {
+      "date": "10-27-2023",
+      "title": "Classic Film: Dracula, 1931",
+      "url": "https://calendar.byu.edu/arts-entertainment/classic-film-dracula-1931-2023-10-27",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-27",
+      "location": "1160 HBLL Reynolds Auditorium",
+      "description": "This film is credited with launching Hollywood’s love of horror films. Bela Lugosi plays the title role. The film takes Dracula from Transylvania to London, where the vampire hopes to spend his days in polite society and his nights hunting for victims.",
+      "time": "7:00 PM - 9:30 PM",
+      "tags": ["Film"]
+    },
+    {
+      "date": "10-30-2023",
+      "title": "Wilford Woodruff at the Crossroads of American Genealogy",
+      "url": "https://calendar.byu.edu/Education/wilford-woodruff-at-the-crossroads-of-american-genealogy-2023-10-30",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-30",
+      "location": "Reynolds Auditorium HBLL 1060",
+      "description": "Karin Wulf: Professor of History, Brown University, Director & Librarian of the John Carter Brown Library",
+      "time": "2:00 PM - 3:00 PM",
+      "tags": ["Educational"]
+    },
+    {
+      "date": "10-31-2023",
+      "title": "Mechanical Engineering Laboween",
+      "url": "https://calendar.byu.edu/Education/mechanical-engineering-laboween-2023-10-31",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-31",
+      "location": "Engineering Bldg",
+      "description": "Welcome to our open house showcase of the many aspects of research that we conduct here in the Mechanical Engineering department!",
+      "time": "3:00 PM - 5:00 PM",
+      "tags": ["Educational"]
+    },
+    {
+      "date": "11-7-2023",
+      "title": "Devotional: Elder Gary B. Sabin",
+      "url": "https://calendar.byu.edu/devotionals-forums/devotional-elder-gary-b-sabin-2023-11-07",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-11-07",
+      "location": "Marriott Center",
+      "description": "Elder Gary B. Sabin was sustained as a General Authority Seventy of The Church of Jesus Christ of Latter-day Saints on April 2, 2016. He has served as a counselor and President of the Europe Area (2016–2021) and is currently serving as Assistant Executive Director of the Temple Department, member of the Welfare and Self-Reliance Committee, member of the Boundary and Leadership Committee and member of the North America West Area Presidency.",
+      "time": "11:05 AM",
+      "tags": ["Devotional", "Religious"]
+    },
+    {
+      "date": "11-14-2023",
+      "title": "Devotional: Elder Quentin L. Cook",
+      "url": "https://calendar.byu.edu/devotionals-forums/devotional-elder-quentin-l-cook-2023-11-14",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-11-14",
+      "location": "Marriott Center",
+      "description": "Elder Quentin L. Cook was sustained as a member of the Quorum of the Twelve Apostles of The Church of Jesus Christ of Latter-day Saints on October 6, 2007. Called as a General Authority in April 1996, he served in the Second Quorum, the First Quorum and the Presidency of the Seventy.",
+      "time": "11:05 AM",
+      "tags": ["Devotional", "Religious"]
+    },
+    {
+      "date": "11-28-2023",
+      "title": "Forum: W. Bradford Wilcox",
+      "url": "https://calendar.byu.edu/devotionals-forums/forum-brad-wilcox",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-11-28",
+      "location": "Marriott Center",
+      "description": "Brad Wilcox is a professor of sociology and the director of the National Marriage Project at the University of Virginia, a senior fellow at the Institute for Family Studies and a nonresident senior fellow at the American Enterprise Institute. Wilcox earned his undergraduate degree at the University of Virginia, where he was a Jefferson Scholar, and his Ph.D. in sociology at Princeton University. Prior to coming to U.Va., he held research fellowships at Princeton University and Yale University.",
+      "time": "11:05 AM",
+      "tags": ["Educational"]
+    },
+    {
+      "date": "11-3-2023",
+      "title": "Women's Volleyball vs Cincinnati",
+      "url": "https://calendar.byu.edu/athletics/womens-volleyball-vs-cincinnati-2023-11-03",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-11-03",
+      "location": "Smith Fieldhouse",
+      "description": "Women's Volleyball will compete against Cincinnati at the Smith Fieldhouse.",
+      "time": "7:00 PM",
+      "tags": ["Sports", "Women's Volleyball"]
+    },
+    {
+      "date": "11-3-2023",
+      "title": "Women's Volleyball vs. Cincinnati",
+      "url": "https://calendar.byu.edu/athletics/w-volleyball-vs-cincinnati-2023-11-03",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-11-03",
+      "location": "Smith Fieldhouse",
+      "description": "University of Cincinnati \n  BYU \n  Provo, Provo \n  Smith Fieldhouse",
+      "time": "7:00 PM",
+      "tags": ["Sports", "Women's Volleyball"]
+    },
+    {
+      "date": "11-4-2023",
+      "title": "Women's Rugby vs. Lindenwood",
+      "url": "https://calendar.byu.edu/athletics/womens-rugby-vs-lindenwood-2023-11-04",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-11-04",
+      "location": "Helaman Field",
+      "description": "Watch Women's Rugby compete against Lindenwood on Helaman Field.",
+      "time": "11:00 AM",
+      "tags": ["Sports", "Women's Rugby"]
+    },
+    {
+      "date": "11-4-2023",
+      "title": "Men's Rugby vs. Colorado",
+      "url": "https://calendar.byu.edu/athletics/mens-rugby-vs-colorado-2023-11-04",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-11-04",
+      "location": "South Field",
+      "description": "Watch Men's Rugby compete against Colorado on the South Field.",
+      "time": "2:00 PM",
+      "tags": ["Sports", "Men's Rugby"]
+    },
+    {
+      "date": "11-4-2023",
+      "title": "Women's Volleyball vs Cincinnati",
+      "url": "https://calendar.byu.edu/athletics/womens-volleyball-vs-cincinnati-2023-11-04",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-11-04",
+      "location": "Smith Fieldhouse",
+      "description": "Women's Volleyball will compete against Cincinnati at the Smith Fieldhouse.",
+      "time": "7:00 PM",
+      "tags": ["Sports", "Women's Volleyball"]
+    },
+    {
+      "date": "11-4-2023",
+      "title": "Women's Volleyball vs. Cincinnati",
+      "url": "https://calendar.byu.edu/athletics/w-volleyball-vs-cincinnati-2023-11-04",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-11-04",
+      "location": "Smith Fieldhouse",
+      "description": "University of Cincinnati \n  BYU \n  Provo, Provo \n  Smith Fieldhouse",
+      "time": "7:00 PM",
+      "tags": ["Women's Volleyball", "Sports"]
+    },
+    {
+      "date": "11-10-2023",
+      "title": "Women's Lacrosse vs. Weber State",
+      "location": "West Field",
+      "url": "https://calendar.byu.edu/athletics/womens-lacrosse-vs-weber-state-2023-11-10",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-11-10",
+      "description": "Watch Women's Lacrosse compete against Weber State on the West Field.",
+      "time": "5:00 PM",
+      "tags": ["Sports", "Women's Lacrosse"]
+    },
+    {
+      "date": "11-11-2023",
+      "title": "Football vs. Iowa State",
+      "url": "https://calendar.byu.edu/athletics/football-vs-iowa-state-2023-11-11",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-11-11",
+      "location": "LaVell Edwards Stadium",
+      "description": "BYU \n  Iowa State \n  Provo, Provo \n  LaVell Edwards Stadium",
+      "time": "12:00 PM",
+      "tags": ["Sports", "Football"]
+    },
+    {
+      "date": "11-17-2023",
+      "title": "Women's Rugby vs. Utah",
+      "url": "https://calendar.byu.edu/athletics/womens-rugby-vs-utah-2023-11-17",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-11-17",
+      "location": "Helaman Field",
+      "description": "Watch Women's Rugby compete against Utah on Helaman Field.",
+      "time": "6:00 PM",
+      "tags": ["Women's Rugby", "Sports"]
+    },
+    {
+      "date": "11-17-2023",
+      "title": "Women's Volleyball vs Kansas",
+      "url": "https://calendar.byu.edu/athletics/womens-volleyball-vs-kansas-2023-11-17",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-11-17",
+      "location": "Smith Fieldhouse",
+      "description": "Women's Volleyball will compete against Kansas at the Smith Fieldhouse.",
+      "time": "7:00 PM",
+      "tags": ["Sports", "Women's Volleyball"]
+    },
+    {
+      "date": "11-17-2023",
+      "title": "Women's Volleyball vs. Kansas",
+      "url": "https://calendar.byu.edu/athletics/w-volleyball-vs-kansas-2023-11-17",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-11-17",
+      "location": "Smith Fieldhouse",
+      "description": "Kansas \n  BYU \n  Provo, Provo \n  Smith Fieldhouse",
+      "time": "7:00 PM",
+      "tags": ["Sports", "Women's Volleyball"]
+    },
+    {
+      "date": "11-18-2023",
+      "title": "Football vs. Oklahoma",
+      "url": "https://calendar.byu.edu/athletics/football-vs-oklahoma-2023-11-18",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-11-18",
+      "location": "LaVell Edwards Stadium",
+      "description": "BYU Football hosts Oklahoma at LaVell Edwards Stadium.",
+      "time": "TBD",
+      "tags": ["Sports", "Football"]
+    },
+    {
+      "date": "11-1-2023",
+      "title": "Dia de los Muertos Celebration",
+      "url": "https://calendar.byu.edu/arts-entertainment/dia-de-los-muertos-celebration-2023-11-01",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-11-01",
+      "location": "BYU Museum of Peoples and Cultures",
+      "description": "The annual Dia de los Muertos celebration will be held at the Museum of Peoples and Cultures. Enjoy performances, have your face painted by the talented Theatre & Media Arts Department, make colorful flower crowns, decorate a family picture frame, learn about the significance of ofrendas and more! This is a free event.",
+      "time": "6:00 PM",
+      "tags": ["Social"]
+    },
+    {
+      "date": "11-3-2023",
+      "title": "Utah Conference on Undergraduate Research: Submissions Due",
+      "url": "https://calendar.byu.edu/Education/utah-conference-on-undergraduate-research-submissions-due-2023-11-03",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-11-03",
+      "location": null,
+      "description": "The Utah Conference on Undergraduate Research (UCUR) is for all undergraduate students doing research in the state of Utah, and a different university hosts the conference each year. Utah Valley University will be hosting the 2024 UCUR on February 16, 2024.",
+      "time": "",
+      "tags": ["Educational"]
+    },
+    {
+      "date": "11-3-2023",
+      "title": "Archive Classic Film: Bad Bascomb, 1946",
+      "url": "https://calendar.byu.edu/arts-entertainment/archive-classic-film-bad-bascomb-1946-2023-11-03",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-11-03",
+      "location": "Reynolds Auditorium HBLL 1060",
+      "description": "This 1946 Hollywood film follows a murdering bank robber who hides among a Mormon wagon train to escape the authorities in the territory. He will undergo a surprising transformation through his time among the saints.",
+      "time": "7:30 PM - 10:00 PM",
+      "tags": ["Film"]
+    },
+    {
+      "date": "11-6-2023",
+      "title": "Cougstival",
+      "url": "https://calendar.byu.edu/student-life/cougstival-2023-11-06",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-11-06",
+      "location": null,
+      "description": "",
+      "time": "9:00 AM - 8:00 AM",
+      "tags": ["Sports", "Social"]
+    },
+    {
+      "date": "11-6-2023",
+      "title": "Church Music Trivia FHE",
+      "url": "https://calendar.byu.edu/student-life/church-music-trivia-fhe-2023-11-06",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-11-06",
+      "location": "The Education in Zion Gallery-JFSB",
+      "description": "Do you like music? Do you like trivia? Come test your knowledge of Church musicians from the 1800s to today.",
+      "time": "7:00 PM - 7:30 PM",
+      "tags": ["Social", "Art", "Educational"]
+    },
+    {
+      "date": "11-10-2023",
+      "title": "Confronting Gender-Based Violence in India through Dance/ Movement Therapy",
+      "url": "https://calendar.byu.edu/Education/confronting-gender-based-violence-in-india-through-dance-movement-therapy-2023-11-10",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-11-10",
+      "location": "238 HRCB",
+      "description": "Sohini Chakraborty, who is a scholar, Ashoka Fellow, dance and movement therapist, and director of Kolkata Sanved, lectures at this fall 2023 Global Women's Studies Colloquium event.",
+      "time": "12:00 PM - 1:00 PM",
+      "tags": ["Educational"]
+    },
+    {
+      "date": "11-10-2023",
+      "title": "Classic Film: Charade, 1963",
+      "url": "https://calendar.byu.edu/arts-entertainment/classic-film-charade-1963-2023-11-10",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-11-10",
+      "location": "1160 HBLL Reynolds Auditorium",
+      "description": "This film is a thriller, a romance, and a comedy all in one. Released in 1963, the film stars Cary Grant and Audrey Hepburn.",
+      "time": "7:00 PM - 9:45 PM",
+      "tags": ["Film"]
+    },
+    {
+      "date": "11-17-2023",
+      "title": "School of Accountancy Conference",
+      "url": "https://calendar.byu.edu/conferences/school-of-accountancy-conference-2023-11-17",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-11-17",
+      "location": null,
+      "description": null,
+      "time": "",
+      "tags": ["Educational"]
+    },
+    {
+      "date": "11-21-2023",
+      "title": "How Do We Stack Up? Assessing BYU Library Collections in Global Women’s Studies",
+      "url": "https://calendar.byu.edu/Education/how-do-we-stack-up-assessing-byu-library-collections-in-global-womens-studies-2023-11-21",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-11-21",
+      "location": "238 HRCB",
+      "description": "Elizabeth Smart, Global Women's Studies librarian at the BYU library, lectures at this fall 2023 Global Women's Studies Colloquium event.",
+      "time": "12:00 PM - 1:00 PM",
+      "tags": ["Educational"]
+    },
+    {
+      "date": "12-5-2023",
+      "title": "Devotional: Elder Matthew L. Carpenter",
+      "url": "https://calendar.byu.edu/devotionals-forums/devotional-elder-matthew-l-carpenter-2023-12-05",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-12-05",
+      "location": "Marriott Center",
+      "description": "Elder Matthew L. Carpenter was sustained as a General Authority Seventy of The Church of Jesus Christ of Latter-day Saints on March 31, 2018. At the time of his call, Elder Matthew L. Carpenter had been serving as a member of the Sixth Quorum of the Seventy in the North America Central Area. He has served as an assistant to the Utah Area Presidency, as a counselor in the North America Central Area Presidency and on various committees at Church Headquarters. He is currently serving as First Counselor in the Africa Central Area Presidency.",
+      "time": "11:05 AM",
+      "tags": ["Devotional", "Religous"]
+    },
+    {
+      "date": "12-4-2023",
+      "title": "Christmas in Nauvoo FHE",
+      "url": "https://calendar.byu.edu/student-life/christmas-in-nauvoo-fhe-2023-12-04",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-12-04",
+      "location": null,
+      "description": "Visit various activity stations in the gallery to learn how Christmas was celebrated in the nineteenth century. Caroling, craft activity, refreshments, and storytelling bring Nauvoo to life as we remember the reason for the season.",
+      "time": "7:00 PM - 9:00 PM",
+      "tags": ["Social", "Educational"]
+    },
+    {
+      "date": "12-7-2023",
+      "title": "Wellness Coach Workshop: Stress Management",
+      "url": "https://calendar.byu.edu/Education/wellness-coach-workshop-stress-management-2023-12-07",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-12-07",
+      "location": "257 RB",
+      "description": "Our last workshop of the semester! Come learn tips and tricks to managing stress, time management and more! Food will be provided.",
+      "time": "7:00 PM - 8:00 PM",
+      "tags": ["Educational", "Social"]
+    },
+    {
+      "date": "12-8-2023",
+      "title": "Perceptions of Gender Bias in Utah Workplaces",
+      "url": "https://calendar.byu.edu/Education/perceptions-of-gender-bias-in-utah-workplaces-2023-12-08",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-12-08",
+      "location": "238 HRCB",
+      "description": "Come hear from Helen Knaggs, NuSkin Vice President, and Emily Darowski, Associate Director of the Utah Women & Leadership Project, at this fall 2023 Global Women's Studies Colloquium event.",
+      "time": "12:00 PM - 1:00 PM",
+      "tags": ["Educational"]
+    },
+    {
+      "date": "12-8-2023",
+      "title": "Classic Film: It's A Wonderful Life, 1946",
+      "url": "https://calendar.byu.edu/arts-entertainment/classic-film-its-a-wonderful-life-1946-2023-12-08",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-12-08",
+      "location": "1160 HBLL Reynolds Auditorium",
+      "description": "Every few years the library presents James Stewart’s personal film print of It’s A Wonderful Life.",
+      "time": "7:00 PM - 9:45 PM",
+      "tags": ["Film"]
+    },
+    {
+      "date": "12-17-2023",
+      "title": "Wellness Coach Workshop: Relationship Building",
+      "url": "https://calendar.byu.edu/Education/wellness-coach-workshop-relationship-building-2023-12-17",
+      "dayPageUrl": "https://calendar.byu.edu/day/2023-12-17",
+      "location": "257 RB",
+      "description": "Learn how to improve your current relationships, how to form new relationships and more just in time for the holidays! Food will be provided!",
+      "time": "7:00 PM - 8:00 PM",
+      "tags": ["Social", "Educational"]
+    }
+  ]
+}

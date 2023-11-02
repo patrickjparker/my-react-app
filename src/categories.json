@@ -1,0 +1,58 @@
+[
+  {
+    "value": "Sports",
+    "subCategories": [
+      {
+        "value": "Football"
+      },
+      {
+        "value": "Women's Volleyball"
+      },
+      {
+        "value": "Men's Rugby"
+      },
+      {
+        "value": "Women's Rugby"
+      },
+      {
+        "value": "Women's Soccer"
+      },
+      {
+        "value": "Men's Soccer"
+      }
+    ]
+  },
+  {
+    "value": "Social",
+    "subCategories": [
+      {
+        "value": "Movie"
+      }
+    ]
+  },
+  {
+    "value": "Art",
+    "subCategories": [
+      {
+        "value": "Choir"
+      },
+      {
+        "value": "Band"
+      },
+      {
+        "value": "Film"
+      }
+    ]
+  },
+  {
+    "value": "Religious",
+    "subCategories": [
+      {
+        "value": "Devotional"
+      }
+    ]
+  },
+  {
+    "value": "Educational"
+  }
+]

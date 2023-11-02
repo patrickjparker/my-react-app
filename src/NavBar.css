@@ -1,0 +1,28 @@
+.navbar {
+  display: flex;
+  justify-content: space-between; /* Logo on the left, links on the right */
+  align-items: center; /* Vertically center the items */
+  background-color: #333; /* Add a background color */
+  padding: 10px 20px; /* Add some padding for spacing */
+  color: white; /* Text color for links and logo */
+}
+
+.navbar-nav {
+  list-style: none;
+  display: flex;
+}
+
+li {
+  padding: .5rem;
+  border-radius: 10px;
+}
+
+li:hover {
+  background-color: #555;
+  text-decoration: underline;
+}
+
+.active {
+  border: solid 1px white;
+  font-weight: bold;
+}
