@@ -23,12 +23,7 @@
     ]
   },
   {
-    "value": "Social",
-    "subCategories": [
-      {
-        "value": "Movie"
-      }
-    ]
+    "value": "Social"
   },
   {
     "value": "Art",
@@ -49,10 +44,27 @@
     "subCategories": [
       {
         "value": "Devotional"
+      },
+      {
+        "value": "FHE"
       }
     ]
   },
   {
-    "value": "Educational"
+    "value": "Educational",
+    "subCategories": [
+      {
+        "value": "Workshop"
+      },
+      {
+        "value": "Ask Me Anything"
+      },
+      {
+        "value": "Women's Studies"
+      },
+      {
+        "value": "International"
+      }
+    ]
   }
 ]
