@@ -1,5 +1,5 @@
 .event {
-    border: 1px solid #ccc;
+    border: 1px solid var(--black);
     width: 25rem;
     box-shadow: 2px 7px 5px #ccc;
     border-radius: 10px;

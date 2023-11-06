@@ -171,7 +171,7 @@
       "location": "Marriott Center",
       "description": "Kick off Homecoming week with energetic performances from campus groups.",
       "time": "11:00 AM",
-      "tags": ["Social", "Educational"]
+      "tags": ["Social"]
     },
     {
       "date": "10-24-2023",
@@ -391,7 +391,7 @@
       "dayPageUrl": "https://calendar.byu.edu/day/2023-10-02",
       "description": "Which temple has the tallest Angel Moroni? Which temple has a cell from the original Pinocchio film in its cornerstone and why? Learn these and other fun facts about the individual temples.",
       "time": "7:00 PM - 7:30 PM",
-      "tags": ["Social", "Educational"]
+      "tags": ["Social", "Educational", "Religious", "FHE"]
     },
     {
       "date": "10-3-2023",
@@ -411,7 +411,7 @@
       "location": "238 HRCB",
       "description": "The ancient Athenians enacted mythological stories in the Theater of Dionysus as a way to address the pressing issues of their time. Can these myths do the same thing for us today? While narratives from Greek and Roman culture have sometimes been used to bolster negative ideologies, such as misogyny, racism, and cultural chauvinism, the vibrancy of these stories keeps them from being tied to any single meaning. Rereading and retelling Greek and Roman myths through a social justice lens can help us preserve important aspects of our cultural heritage, while also transforming our current culture for the better.",
       "time": "12:00 PM - 1:00 PM",
-      "tags": ["Educational", "Social"]
+      "tags": ["Educational"]
     },
     {
       "date": "10-4-2023",
@@ -431,7 +431,7 @@
       "location": "2233 HBLL",
       "description": "This session will provide an introduction to ScholarsArchive, BYU's Institutional Repository.",
       "time": "12:00 PM - 1:00 PM",
-      "tags": ["Educational"]
+      "tags": ["Educational", "Workshop"]
     },
     {
       "date": "10-5-2023",
@@ -471,7 +471,7 @@
       "location": "257 HRCB",
       "description": "Come check out this Ask Me Anything event with David Porcaro.",
       "time": "2:00 PM - 3:00 PM",
-      "tags": ["Educational", "Social"]
+      "tags": ["Educational", "Ask Me Anything", "International"]
     },
     {
       "date": "10-6-2023",
@@ -485,13 +485,13 @@
     },
     {
       "date": "10-9-2023",
-      "title": "Ask Me Anything about Central America, the Middle East, &amp; the Unexpected in Global Careers",
+      "title": "Ask Me Anything about Central America, the Middle East, & the Unexpected in Global Careers",
       "url": "https://calendar.byu.edu/Education/ask-me-anything-about-central-america-the-middle-east-the-unexpected-in-global-careers-2023-10-09",
       "dayPageUrl": "https://calendar.byu.edu/day/2023-10-09",
       "location": "257 HRCB",
       "description": "Interested in the Foreign Service or another global career? Come hear from Joey Leavitt at this Ask Me Anything event.",
       "time": "2:00 PM - 3:00 PM",
-      "tags": ["Educational"]
+      "tags": ["Educational", "Ask Me Anything", "International"]
     },
     {
       "date": "10-10-2023",
@@ -501,7 +501,7 @@
       "location": "WSC Garden Court",
       "description": "No registration required, come join us and start to create an agar masterpiece.",
       "time": "12:00 PM - 4:00 PM",
-      "tags": ["Social"]
+      "tags": ["Social", "Art"]
     },
     {
       "date": "10-11-2023",
@@ -521,7 +521,7 @@
       "location": "238 HRCB",
       "description": "In the last two centuries, itinerant Muslim clerics played a huge role in changing the social and religious landscape of the Senegambia region. Dr. Assan Sarr will examine Islam and Islamization in West Africa through the history of the Tijāniyya, a prominent Sufi order with its ties to these clerics in the region.",
       "time": "12:00 PM - 1:00 PM",
-      "tags": ["Educational", "Religious"]
+      "tags": ["Educational", "Religious", "International"]
     },
     {
       "date": "10-11-2023",
@@ -541,7 +541,7 @@
       "location": "238 HRCB",
       "description": "Interested in international development and in how you can make a difference in the world with your future career? Come hear from Jason Stout at this Ask Me Anything event.",
       "time": "5:00 PM - 6:00 PM",
-      "tags": ["Educational", "Social"]
+      "tags": ["Educational", "Ask Me Anything", "International"]
     },
     {
       "date": "10-12-2023",
@@ -561,7 +561,7 @@
       "location": "2233 HBLL",
       "description": "Getting published is one thing, maximizing the impact of your work is another. In this workshop we will share:",
       "time": "12:00 PM - 1:00 PM",
-      "tags": ["Educational"]
+      "tags": ["Educational", "Workshop"]
     },
     {
       "date": "10-12-2023",
@@ -571,16 +571,6 @@
       "location": "3400 WSC",
       "description": "The general student body and individuals interested in running for BYUSA President and EVP come to the BYUSA Elections interest meetings to learn more and prepare for their candidacies.",
       "time": "4:00 PM - 5:00 PM",
-      "tags": ["Social", "Educational"]
-    },
-    {
-      "date": "10-12-2023",
-      "title": "CANCELED: Robert P. George Lecture",
-      "url": "https://calendar.byu.edu/Education/robert-p-george-lecture-2023-10-12",
-      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-12",
-      "location": "The Hinckley Center",
-      "description": "Unfortunately, this event has been canceled.",
-      "time": "7:00 PM",
       "tags": ["Educational"]
     },
     {
@@ -591,7 +581,7 @@
       "location": "Reynolds Auditorium HBLL 1060",
       "description": "His Excellency Esteban Moctezuma Barragán, Mexican ambassador the United States of America, will speak on BYU campus.",
       "time": "11:00 AM - 12:00 PM",
-      "tags": ["Educational"]
+      "tags": ["Educational", "International"]
     },
     {
       "date": "10-13-2023",
@@ -611,7 +601,7 @@
       "location": "2233 HBLL",
       "description": "This session will highlight software for analyzing and visualizing data including R, SAS, Python, SPSS, Stata, Excel, Tableau Public, Gale Scholar Lab, and ArcGIS. Come to learn about features and functions of each software, use-case scenarios, and training resources.",
       "time": "12:00 PM - 1:00 PM",
-      "tags": ["Educational"]
+      "tags": ["Educational", "Workshop"]
     },
     {
       "date": "10-13-2023",
@@ -621,7 +611,7 @@
       "location": "238 HRCB",
       "description": "Mary Davis of BYU's Microbiology and Molecular Biology Department speaks on \"Multiple Sclerosis Through the Stages of Life: a Female Perspective” at this fall 2023 Global Women's Studies Colloquium event.",
       "time": "12:00 PM - 1:00 PM",
-      "tags": ["Educational", "Women's Health", "Lecture"]
+      "tags": ["Educational", "Women's Studies"]
     },
     {
       "date": "10-13-2023",
@@ -631,7 +621,7 @@
       "location": "238 HRCB",
       "description": "Change and flexibility has been a defining element of Hmong religion. But the spread of Hmong communities across the world (most often as refugees) has presented challenges to “traditional” Hmong religion on a whole new scale. Leaders of new religious movements seek to unify Hmong society, but this requires persuading their compatriots that their new rituals and practices are, in fact, actually more authentic than the older traditions, and that they are more likely to unify global Hmong society than traditional religion.",
       "time": "2:00 PM - 3:00 PM",
-      "tags": ["Educational"]
+      "tags": ["Educational", "Religious"]
     },
     {
       "date": "10-13-2023",
@@ -665,23 +655,13 @@
     },
     {
       "date": "10-16-2023",
-      "title": "DMBA Open Enrollment Session",
-      "url": "https://calendar.byu.edu/other/dmba-open-enrollment-session-2023-10-16",
-      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-16",
-      "location": null,
-      "description": "It’s October, which means it’s time for DMBA Open Enrollment, September 27th through November 3rd. Open Enrollment allows you to review your medical, dental and VSP plan benefits and make changes for 2024. Also, don’t forget you can sign up for Flexible Spending for 2024 anytime between September 28th-December 31st. The Open Enrollment sessions for campus will begin on October 10, 2023. There is two in-person session and three virtual Open Enrollment sessions. Mark your calendars, you won’t want to miss it!",
-      "time": "10:00 AM",
-      "tags": ["Educational"]
-    },
-    {
-      "date": "10-16-2023",
       "title": "Boren Scholarship Info Session",
       "url": "https://calendar.byu.edu/Education/boren-scholarship-info-session-2023-10-16",
       "dayPageUrl": "https://calendar.byu.edu/day/2023-10-16",
       "location": "238 HRCB",
       "description": "Do you want $25,000 to study a language overseas for 6 months or longer? You should apply for a Boren Scholarship!",
       "time": "11:00 AM - 12:00 PM",
-      "tags": ["Educational"]
+      "tags": ["Educational", "International"]
     },
     {
       "date": "10-17-2023",
@@ -691,17 +671,7 @@
       "location": "238 HRCB",
       "description": "Why is everyone so mad about women’s soccer? Dr. Brenda Elsey will join us to discuss the roots of women’s soccer in Latin America, the struggles of players, and the exciting solidarities that have emerged across the sport. We will reflect upon feminism, sexuality, and gender roles through a deep dive into the region’s favorite pastime.",
       "time": "3:00 PM - 4:00 PM",
-      "tags": ["Sports", "Women's Soccer", "Social", "Educational"]
-    },
-    {
-      "date": "10-17-2023",
-      "title": "Light the Y",
-      "url": "https://calendar.byu.edu/student-life/light-the-y-2023-10-17",
-      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-17",
-      "location": "Y Trail (shuttle from WSC roundabout)",
-      "description": "This October, join us for BYU’s oldest and most enjoyable tradition, the annual Hike and Light the Y event! Since 1924, thousands of students and alumni alike have participated in lighting the Y every BYU Homecoming. Be the first to the top or enjoy the views as you go, Cosmo can’t wait to see you there!",
-      "time": "6:00 PM - 9:00 PM",
-      "tags": ["Social"]
+      "tags": ["Educational", "Women's Studies", "International"]
     },
     {
       "date": "10-17-2023",
@@ -751,27 +721,17 @@
       "location": "238 HRCB",
       "description": "Entrepreneur and Kennedy Center graduate Marc Chenn is the Kennedy Center's fall 2023 honored alumnus. Students, alumni, faculty, and staff are invited to come hear advice and wisdom he's gathered over the course of his successful career.",
       "time": "5:00 PM - 6:00 PM",
-      "tags": ["Educational"]
+      "tags": ["Educational", "International"]
     },
     {
       "date": "10-19-2023",
-      "title": "Wellness Coach Workshop: Digital Wellness &amp; Sleep",
+      "title": "Wellness Coach Workshop: Digital Wellness & Sleep",
       "url": "https://calendar.byu.edu/Education/wellness-coach-workshop-digital-wellness-sleep-2023-10-19",
       "dayPageUrl": "https://calendar.byu.edu/day/2023-10-19",
       "location": null,
       "description": "Learn the importance of a healthy relationship with social media and how it can effect your sleep. Food will be provided!",
       "time": "7:00 PM - 8:00 PM",
-      "tags": ["Educational", "Social"]
-    },
-    {
-      "date": "10-23-2023",
-      "title": "DMBA Open Enrollment Session",
-      "url": "https://calendar.byu.edu/other/dmba-open-enrollment-session-2023-10-23",
-      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-23",
-      "location": "Varsity Theater",
-      "description": "It’s October, which means it’s time for DMBA Open Enrollment, September 27th through November 3rd. Open Enrollment allows you to review your medical, dental and VSP plan benefits and make changes for 2024. Also, don’t forget you can sign up for Flexible Spending for 2024 anytime between September 28th-December 31st. The Open Enrollment sessions for campus will begin on October 10, 2023. There is two in-person session and three virtual Open Enrollment sessions. Mark your calendars, you won’t want to miss it!",
-      "time": "3:00 PM",
-      "tags": ["Educational"]
+      "tags": ["Educational", "Workshop"]
     },
     {
       "date": "10-25-2023",
@@ -781,7 +741,7 @@
       "location": "238 HRCB",
       "description": "The Kennedy Center for International Study's Book of the Semester is Stranger in the Shogun's City: A Japanese Woman and Her World. This is \"a vivid, deeply researched work of history that explores the life of an unconventional woman during the first half of the 19th century in Edo—the city that would become Tokyo—and a portrait of a great city on the brink of a momentous encounter with the West.\"",
       "time": "12:00 PM - 1:00 PM",
-      "tags": ["Educational"]
+      "tags": ["Educational", "International"]
     },
     {
       "date": "10-25-2023",
@@ -792,16 +752,6 @@
       "description": "Dr. Harper will address \" How a Child of Relief Society Failed at Charity Before Learning That Charity Never Fails.\" This presentation is part of the \"My Journey as a Scholar of Faith\" series sponsored by the BYU Faculty Center and Education in Zion Gallery.",
       "time": "3:00 PM - 4:00 PM",
       "tags": ["Religious", "Educational"]
-    },
-    {
-      "date": "10-26-2023",
-      "title": "DMBA Open Enrollment Session",
-      "url": "https://calendar.byu.edu/other/dmba-open-enrollment-session-2023-10-26",
-      "dayPageUrl": "https://calendar.byu.edu/day/2023-10-26",
-      "location": null,
-      "description": "It’s October, which means it’s time for DMBA Open Enrollment, September 27th through November 3rd. Open Enrollment allows you to review your medical, dental and VSP plan benefits and make changes for 2024. Also, don’t forget you can sign up for Flexible Spending for 2024 anytime between September 28th-December 31st. The Open Enrollment sessions for campus will begin on October 10, 2023. There is two in-person session and three virtual Open Enrollment sessions. Mark your calendars, you won’t want to miss it!",
-      "time": "10:00 AM",
-      "tags": ["Educational"]
     },
     {
       "date": "10-26-2023",
@@ -821,7 +771,7 @@
       "location": "The Wilkinson Center",
       "description": "For thirty-four years, BYUMUN has been Utah’s premiere high school Model United Nations learning conference. Delegates develop writing skills by drafting resolutions; improve speaking abilities; research country policies and global issues solutions; and learn to persuade their peers. New schools/delegates are welcome.",
       "time": "8:00 AM - 5:00 PM",
-      "tags": ["Educational"]
+      "tags": ["Educational", "International"]
     },
     {
       "date": "10-27-2023",
@@ -831,7 +781,7 @@
       "location": "238 HRCB",
       "description": "In the late 1960s and 1970s, many American girls who were old enough to know something of the era’s contemporary gender debates strongly endorsed the principle of equal pay for equal work and argued that women should have more varied job opportunities. At the same time, most teenage girls did not self-identify as feminists, and many criticized the movement for “going too far.” Drawing on early 1970s oral history interviews with girls from across the nation, this presentation will consider how girls coming of age during a time of gender contestation situated themselves culturally and politically. Faced with multiple and contradictory meanings for girlhood, many girls tried to find some kind of middle ground: to assert new rights for gender equality while protecting their sense of the entitlements of femininity.",
       "time": "12:00 PM - 1:00 PM",
-      "tags": ["Educational", "Social", "Women's Rights"]
+      "tags": ["Educational", "Women's Studies"]
     },
     {
       "date": "10-27-2023",
@@ -851,7 +801,7 @@
       "location": "Reynolds Auditorium HBLL 1060",
       "description": "Karin Wulf: Professor of History, Brown University, Director & Librarian of the John Carter Brown Library",
       "time": "2:00 PM - 3:00 PM",
-      "tags": ["Educational"]
+      "tags": ["Educational", "Religious"]
     },
     {
       "date": "10-31-2023",
@@ -1025,16 +975,6 @@
     },
     {
       "date": "11-3-2023",
-      "title": "Utah Conference on Undergraduate Research: Submissions Due",
-      "url": "https://calendar.byu.edu/Education/utah-conference-on-undergraduate-research-submissions-due-2023-11-03",
-      "dayPageUrl": "https://calendar.byu.edu/day/2023-11-03",
-      "location": null,
-      "description": "The Utah Conference on Undergraduate Research (UCUR) is for all undergraduate students doing research in the state of Utah, and a different university hosts the conference each year. Utah Valley University will be hosting the 2024 UCUR on February 16, 2024.",
-      "time": "",
-      "tags": ["Educational"]
-    },
-    {
-      "date": "11-3-2023",
       "title": "Archive Classic Film: Bad Bascomb, 1946",
       "url": "https://calendar.byu.edu/arts-entertainment/archive-classic-film-bad-bascomb-1946-2023-11-03",
       "dayPageUrl": "https://calendar.byu.edu/day/2023-11-03",
@@ -1061,7 +1001,7 @@
       "location": "The Education in Zion Gallery-JFSB",
       "description": "Do you like music? Do you like trivia? Come test your knowledge of Church musicians from the 1800s to today.",
       "time": "7:00 PM - 7:30 PM",
-      "tags": ["Social", "Art", "Educational"]
+      "tags": ["Social", "Art", "Educational", "Religious", "FHE"]
     },
     {
       "date": "11-10-2023",
@@ -1071,7 +1011,7 @@
       "location": "238 HRCB",
       "description": "Sohini Chakraborty, who is a scholar, Ashoka Fellow, dance and movement therapist, and director of Kolkata Sanved, lectures at this fall 2023 Global Women's Studies Colloquium event.",
       "time": "12:00 PM - 1:00 PM",
-      "tags": ["Educational"]
+      "tags": ["Educational", "Women's Studies", "International"]
     },
     {
       "date": "11-10-2023",
@@ -1101,7 +1041,7 @@
       "location": "238 HRCB",
       "description": "Elizabeth Smart, Global Women's Studies librarian at the BYU library, lectures at this fall 2023 Global Women's Studies Colloquium event.",
       "time": "12:00 PM - 1:00 PM",
-      "tags": ["Educational"]
+      "tags": ["Educational", "Women's Studies"]
     },
     {
       "date": "12-5-2023",
@@ -1121,7 +1061,7 @@
       "location": null,
       "description": "Visit various activity stations in the gallery to learn how Christmas was celebrated in the nineteenth century. Caroling, craft activity, refreshments, and storytelling bring Nauvoo to life as we remember the reason for the season.",
       "time": "7:00 PM - 9:00 PM",
-      "tags": ["Social", "Educational"]
+      "tags": ["Social", "Educational", "Religious", "FHE"]
     },
     {
       "date": "12-7-2023",
@@ -1131,7 +1071,7 @@
       "location": "257 RB",
       "description": "Our last workshop of the semester! Come learn tips and tricks to managing stress, time management and more! Food will be provided.",
       "time": "7:00 PM - 8:00 PM",
-      "tags": ["Educational", "Social"]
+      "tags": ["Educational", "Workshop"]
     },
     {
       "date": "12-8-2023",
@@ -1141,7 +1081,7 @@
       "location": "238 HRCB",
       "description": "Come hear from Helen Knaggs, NuSkin Vice President, and Emily Darowski, Associate Director of the Utah Women & Leadership Project, at this fall 2023 Global Women's Studies Colloquium event.",
       "time": "12:00 PM - 1:00 PM",
-      "tags": ["Educational"]
+      "tags": ["Educational", "Women's Studies"]
     },
     {
       "date": "12-8-2023",
@@ -1161,7 +1101,7 @@
       "location": "257 RB",
       "description": "Learn how to improve your current relationships, how to form new relationships and more just in time for the holidays! Food will be provided!",
       "time": "7:00 PM - 8:00 PM",
-      "tags": ["Social", "Educational"]
+      "tags": ["Social", "Educational", "Workshop"]
     }
   ]
 }
