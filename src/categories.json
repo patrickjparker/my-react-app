@@ -48,7 +48,10 @@
     "value": "Religious",
     "subCategories": [
       {
-        "value": "Devotional"
+        "value": "Devotionals"
+      },
+      {
+        "value": "FHE"
       }
     ]
   },
