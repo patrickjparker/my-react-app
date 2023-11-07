@@ -72,20 +72,23 @@ function App() {
 
   return (
     <div className="App">
-      { categoryList.map((category, index) => (
-        <NavBar
-          key={index}
-          items={category}
-          handleNavItemClick={selectCategory(index)}
-          selectedItem={selectedCategory[index]}
-        />
-      ))}
-      { subCategories.length > 0 && (
-        <NavBar
-          items={subCategories}
-          handleNavItemClick={selectCategory(selectedCategory.length)}
-        />
-      )}
+      <div className='top-nav'>
+        { categoryList.map((category, index) => (
+          <NavBar
+            key={index}
+            items={category}
+            mainBar={index === 0}
+            handleNavItemClick={selectCategory(index)}
+            selectedItem={selectedCategory[index]}
+          />
+        ))}
+        { subCategories.length > 0 && (
+          <NavBar
+            items={subCategories}
+            handleNavItemClick={selectCategory(selectedCategory.length)}
+          />
+        )}
+      </div>
       <EventList events={filteredEvents} />
     </div>
   );
